@@ -1,0 +1,11 @@
+Milk_Price = 50
+Bread_Price = 20
+Egg_Price = 10
+Total = Milk_Price+Bread_Price+Egg_Price
+Discount = Total * .05
+print(f"Milk Price = {Milk_Price} Rs.")
+print(f"Bread Price = {Bread_Price} Rs.")
+print(f"Egg Price = {Egg_Price} Rs.")
+print(f"Total = {Total}")
+print(f"Discount 5% = {Discount} Rs")
+print(f"Total With Discount = {Total-Discount}")

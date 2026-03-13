@@ -1,0 +1,5 @@
+Price = int(input("Price : "))
+float_num = float(Price)
+multi = (Price*float_num)
+print("The multiple of int price and float price is = ", multi)
+print(type(multi))
