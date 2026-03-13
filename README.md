@@ -25,15 +25,22 @@ Demonstrates string concatenation with a manual space.
 Uses the type() function to verify the core data structures of Python.
 
 #Day2 of #ZeroToAGI 🚀 
+<br>
 Targeting AGI Level: Day 2 Progress Report 🤖
+<br>
 Today was all about mastering the "Math & Logic" that powers intelligent systems. If you can't control the flow of data, you can't build AGI. Here’s what I crushed today:
+<br>
 ✅ Expression Execution & PEMDAS: Mastered how Python prioritizes complex math operations. 
+<br>
 ✅ Type Promotion: Learned how Python implicitly converts Integers to Floats for high-precision AI calculations. 
+<br>
 ✅ The Tricky Floor Division (//): Deep-dived into how Python rounds down, especially with negative numbers (Mind-bending logic! 🧠). 
+<br>
 ✅ Modulus Mastery (%): Understanding remainders and how they behave with negative denominators—crucial for data batching. 
+<br>
 ✅ Interactive Input Systems: Built a dynamic profile collector using input() and Type Casting (int, float). 
+<br>
 ✅ String Concatenation & Repetition: Mastering text manipulation for clean UI/UX.
 Why this matters for AGI? Every Neural Network is just a massive web of these arithmetic expressions. If your base logic isn't solid, your model won't scale.
-
+<br>
 The journey from "Hello World" to "World-Changing AI" is on track. Benchmarks, I’m coming for you! ⚡️
-Apna College , Shradha Khapra
