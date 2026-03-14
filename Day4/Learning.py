@@ -1,4 +1,4 @@
-"""# Singal Line Conditional Statements
+# Singal Line Conditional Statements
 # Single Line if / Ternary Operator
 food = input("food : ").lower()
 eat = "Yes" if food == "cake" else "no"
@@ -92,7 +92,4 @@ print("and operator : " ,val1 and val2)
 val1 = True
 val2 = False
 print("Or operator : " ,val1 or val2)
-print("Or operator : " , (a==b) or (a>b))"""
-
-# Type Conversion
-
+print("Or operator : " , (a==b) or (a>b))
