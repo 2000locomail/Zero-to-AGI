@@ -1,4 +1,4 @@
-# Indexing
+"""# Indexing
 str = "Apna College"
 ch = str[0]
 print(ch)
@@ -47,4 +47,13 @@ print(len(name))
 
 str = "The Price of My Loptop is $ 623.3"
 str = str.count("$")
-print(str)
+print(str)"""
+
+# Lists in Python
+# A built-in data type that stores set of values
+# It can store elements of different types (integer, float, string, etc.)
+marks = [94.3, 92.6, 88.8, 78.9]
+print(marks)
+print(len(marks))
+print(marks[0])
+print(marks[1])
