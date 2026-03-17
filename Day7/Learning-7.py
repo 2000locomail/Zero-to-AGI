@@ -11,6 +11,7 @@ print(tup[1])
 tup = ()
 print(tup)
 
+
 list = []
 list.append(input("Enter Your 1 favorite movies name: "))
 list.append(input("Enter Your 2 favorite movies name: "))
