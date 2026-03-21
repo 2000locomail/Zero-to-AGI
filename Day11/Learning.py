@@ -50,7 +50,7 @@ while idx < len(square):
     print(square[idx])
     idx += 1 
 
-# Break : uused to terminate the loop when encountered
+# Break : used to terminate the loop when encountered
 
 square = (1,4,9,16,25,36,49,64,81,100)
 x = int(input("Enter number you want to found: "))
@@ -64,7 +64,7 @@ while i < len(square):
         print("finding...")
     i += 1
 
-# Continue: terminates execution in the current iteration & continues execution of the loop with thw next iteration.
+# Continue: terminates execution in the current iteration & continues execution of the loop with the next iteration.
 
 i = 0 
 while i <= 10:
