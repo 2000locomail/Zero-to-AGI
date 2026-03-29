@@ -20,7 +20,7 @@ elif amount <=balance:
     if now_bal < 1000:
         print(f"Warning you available balance is {now_bal}")
 
-# ---------------------------------------------------------
+# --------------------------------------------------------
 # LEVEL 3: LOOPS (for & while)
 # Task: "The Multiplier & Sum Tracker"
 # 1. User se ek number input lo (e.g., n = 5).
