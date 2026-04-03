@@ -1,0 +1,1 @@
+C:\Users\sarve\AppData\Local\Python\bin\python.exe "g:/Jeax/Pyhon To AGI/Day022/Learning.py"
